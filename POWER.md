@@ -2,16 +2,8 @@
 name: "project-standards"
 displayName: "Project Standards Generator"
 description: "Generate project documentation, coding standards, and extract knowledge from conversations and code"
-keywords:
-  - "steering"
-  - "template"
-  - "standards"
-  - "code review"
-  - "naming"
-  - "documentation"
-  - "project setup"
-  - "extract"
-  - "generate"
+keywords: ["steering", "template", "standards", "code review", "naming", "documentation", "project setup", "extract", "generate"]
+author: "sol.tao"
 ---
 
 # Project Standards Generator
