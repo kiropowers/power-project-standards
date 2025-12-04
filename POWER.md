@@ -2,7 +2,16 @@
 name: "project-standards"
 displayName: "Project Standards Generator"
 description: "Generate project documentation, coding standards, and extract knowledge from conversations and code"
-keywords: ["steering", "template", "standards", "code review", "naming", "documentation", "project setup", "extract", "generate", "规范", "模板", "提炼"]
+keywords:
+  - "steering"
+  - "template"
+  - "standards"
+  - "code review"
+  - "naming"
+  - "documentation"
+  - "project setup"
+  - "extract"
+  - "generate"
 ---
 
 # Project Standards Generator
